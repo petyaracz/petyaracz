@@ -2,17 +2,18 @@
 
 I'm a quantitative [researcher](http://peterracz.wordpress.com). I work at a [Uni](https://www.ceu.edu/unit/cognitive-development-center). I focus on human behaviour, in the broad sense. 
 
-[This](https://muse.jhu.edu/article/775364) is the best thing I've done to date. [These](https://muse.jhu.edu/article/764694) are the most beautiful data I've worked with.
+- [This](https://muse.jhu.edu/article/775364) is the best thing I've done to date. 
+- [These](https://muse.jhu.edu/article/764694) are the most beautiful data I've worked with.
 
-- I've lived in: 🇭🇺,🇳🇴,🇩🇪,🏴󠁧󠁢󠁳󠁣󠁴󠁿,🥝,🏴󠁧󠁢󠁥󠁮󠁧󠁿
+Everything about me in colourful blobs:
+
+- I've lived in: 🇭🇺,🇳🇴,🇩🇪,🏴󠁧󠁢󠁳󠁣󠁴󠁿,🥝,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🇭🇺
 - I speak: 🇬🇧,🇭🇺,🇩🇪,🇫🇷
-- I've worked with:🇭🇺,🇩🇪,🇳🇿,🇬🇧,🇦🇺,🇺🇸,🏴󠁧󠁢󠁷󠁬󠁳󠁿,🇰🇷,🇮🇳 
+- I've worked with ppl from: 🇭🇺,🇩🇪,🇳🇿,🇬🇧,🇦🇺,🇺🇸,🏴󠁧󠁢󠁷󠁬󠁳󠁿,🇰🇷,🇮🇳 
 - I know some: R, py, julia, js, shell, lme4, stan, purrr, h2o, keras, awk, sed, latex, pandoc, md, rst
 - I can sort of play: 🎸,🎹,🥁
 
-I've been working on a range of stuff. 
-
-> Click the links for examples!
+I've been working on a range of stuff. Click the links for examples from my work.
 
 - [Human development](https://www.youtube.com/watch?v=2NYYQgh3znA)
 - [Language](https://muse.jhu.edu/article/764694) [learning](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12402)
@@ -21,7 +22,7 @@ I've been working on a range of stuff.
 - [Linguistic](https://peterracz.files.wordpress.com/2020/08/datooga_preprint.pdf) [anthropology](https://royalsocietypublishing.org/doi/10.1098/rsos.191385)
 - [Internet](https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2018-0014/cllt-2018-0014.xml) [corpora](https://akademiai.com/doi/abs/10.1556/2062.2019.66.4.5)
 
-I've been using an even wider range of stuff.
+I've been using an even wider range of stuff. The links; click them for examples that are from my work.
 
 - GLMM-s
   - [linear](https://ora.ox.ac.uk/objects/uuid:530e6957-a662-4032-93bf-c384f6ac56d1)
