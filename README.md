@@ -5,7 +5,7 @@ I'm a quantitative [researcher](http://peterracz.wordpress.com). I work at a [Un
 [This](https://muse.jhu.edu/article/775364) is the best thing I've done to date. [These](https://muse.jhu.edu/article/764694) are the most beautiful data I've worked with.
 
 - I've lived in: 🇭🇺,🇳🇴,🇩🇪,🏴󠁧󠁢󠁳󠁣󠁴󠁿,🥝,🏴󠁧󠁢󠁥󠁮󠁧󠁿
-- I speak: 🇭🇺,🇬🇧,🇩🇪,🇫🇷
+- I speak: 🇬🇧,🇭🇺,🇩🇪,🇫🇷
 - I've worked with:🇭🇺,🇩🇪,🇳🇿,🇬🇧,🇦🇺,🇺🇸,🏴󠁧󠁢󠁷󠁬󠁳󠁿,🇰🇷,🇮🇳 
 - I know some: R, py, julia, js, shell, lme4, stan, purrr, h2o, keras, awk, sed, latex, pandoc, md, rst
 - I can sort of play: 🎸,🎹,🥁
