@@ -1,6 +1,6 @@
 ## G'day! 👋
 
-I'm a quantitative [researcher](http://peterracz.wordpress.com). I work at a [Uni](https://www.ceu.edu/unit/cognitive-development-center). I focus on human behaviour, in the broad sense. 
+I'm a quantitative [researcher](http://peterracz.wordpress.com). I work at a [Uni](http://www.cogsci.bme.hu/~ktkuser/master_CogSci_eng/tanszek/). I focus on human behaviour, in the broad sense. 
 
 - [This](https://muse.jhu.edu/article/775364) is the best thing I've done to date. 
 - [These](https://muse.jhu.edu/article/764694) are the most beautiful data I've worked with.
