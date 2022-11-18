@@ -40,3 +40,4 @@ I've been using an even wider range of stuff.
   - Generalised Context Model [(and the English past tense)](https://muse.jhu.edu/article/775364)
   - Naïve Discriminative Learner [(and the Hungarian folk diminutive)](https://doi.org/10.1177/0023830920932955)
   
+I'm on [Gitlab](https://gitlab.pavlovia.org/petyaraczbme) emulating an adolescent web developer.
