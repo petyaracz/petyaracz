@@ -9,7 +9,7 @@ Everything about me in colourful blobs:
 
 - I've lived in: 🇭🇺,🇳🇴,🇩🇪,🏴󠁧󠁢󠁳󠁣󠁴󠁿,🥝,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🇭🇺
 - I speak: 🇬🇧,🇭🇺,🇩🇪,🇫🇷
-- I've worked with ppl from: 🇭🇺,🇩🇪,🇳🇿,🇬🇧,🇦🇺,🇺🇸,🏴󠁧󠁢󠁷󠁬󠁳󠁿,🇰🇷,🇮🇳 
+- I've worked with ppl from: 🇭🇺,🇩🇪,🇷🇴,🇳🇿,🇬🇧,🇦🇺,🇺🇸,🏴󠁧󠁢󠁷󠁬󠁳󠁿,🇰🇷,🇮🇳 
 - I know some: R, py, julia, js, shell, lme4, stan, purrr, h2o, keras, awk, sed, latex, pandoc, md, rst
 - I can sort of play: 🎸,🎹,🥁
 
