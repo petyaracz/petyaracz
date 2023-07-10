@@ -2,7 +2,7 @@
 
 I'm a quantitative [researcher](http://peterracz.wordpress.com). I work at a [Uni](http://www.cogsci.bme.hu/~ktkuser/master_CogSci_eng/tanszek/). I focus on human behaviour, in the broad sense. 
 
-- [This](https://muse.jhu.edu/article/775364) is the best thing I've done to date. 
+- [This](https://peterracz.files.wordpress.com/2023/06/possession-trance-covaries-with-measures-of-social-rigidity-in-the-ethnographic-atlas.pdf) is the best thing I've done to date. 
 - [These](https://muse.jhu.edu/article/764694) are the most beautiful data I've worked with.
 
 Everything about me in colourful blobs:
@@ -15,7 +15,7 @@ Everything about me in colourful blobs:
 
 I've been working on a range of stuff.
 
-- Language learning [(in Murrinhpatha, Northern Australia)](https://muse.jhu.edu/article/764694) [(in a language we made up)](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12402)
+- Language learning [(in English)](https://muse.jhu.edu/article/775364) [(in Murrinhpatha, Northern Australia)](https://muse.jhu.edu/article/764694) [(in a language we made up)](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12402)
 - Human-machine interaction [(with internet robots)](https://muse.jhu.edu/article/775364) [(with actual robots)](http://journals.sagepub.com/doi/abs/10.1177/0261927X15584682) 
 - Evolutionary anthropology [(on cross-cultural data)](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12430) [(going meta)](https://excd.org/2018/03/01/stats-corner-is-the-standard-cross-cultural-sample-really-standard/)
 - Linguistic anthropology [(in Datooga, West Africa)](https://peterracz.files.wordpress.com/2020/08/datooga_preprint.pdf) [(in Indo-European)](https://royalsocietypublishing.org/doi/10.1098/rsos.191385)
