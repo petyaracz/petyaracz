@@ -24,14 +24,14 @@ I've been working on a range of stuff.
 I've been using an even wider range of stuff.
 
 - GLMM-s
-  - linear [(in Māori)](https://ora.ox.ac.uk/objects/uuid:530e6957-a662-4032-93bf-c384f6ac56d1)
-  - logistic [(in a language we made up, w/ aliens)](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12832)
-  - ordinal [(in cross-cultural data)](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12430)
-  - counts [(in a language we made up, w/o aliens)](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00051/full)
-  - Bayesian [(in Murrinhpatha)](https://muse.jhu.edu/article/764694)
+  - linear [(on Māori)](https://ora.ox.ac.uk/objects/uuid:530e6957-a662-4032-93bf-c384f6ac56d1)
+  - logistic [(on a language we made up, w/ aliens)](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12832)
+  - ordinal [(on cross-cultural data)](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12430)
+  - counts [(on a language we made up, w/o aliens)](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00051/full)
+  - Bayesian [(on Murrinhpatha)](https://muse.jhu.edu/article/764694)
 - Ensemble models
   - bagging [(on corpus data)](https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2018-0014/cllt-2018-0014.xml)
-  - boosting [(on Kaggle)](https://www.kaggle.com/petyaracz/pubg-straightforward-run-r)
+  - boosting [(on cross-cultural data)](https://www.tandfonline.com/doi/abs/10.1080/2153599X.2023.2224447)
 - Unsupervised learners
   - multidimensional scaling [(on corpus data)](https://doi.org/10.1177/0023830920932955)
   - principal components [(on survey data)](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190210366.001.0001/acprof-9780190210366-chapter-8)
