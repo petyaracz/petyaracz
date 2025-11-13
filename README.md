@@ -2,7 +2,7 @@
 
 I'm a quantitative [researcher](http://peterracz.wordpress.com). I work at a [Uni](http://www.cogsci.bme.hu/~ktkuser/master_CogSci_eng/tanszek/). I focus on human behaviour, in the broad sense. 
 
-- [Hungarian webcorpus frequency list](https://hungarian-word-frequencies-production.up.railway.app/frequencies/words).
+- [Hungarian webcorpus frequency list](https://hungarian-word-frequencies-production.up.railway.app/frequencies).
 - [This](https://peterracz.files.wordpress.com/2023/06/possession-trance-covaries-with-measures-of-social-rigidity-in-the-ethnographic-atlas.pdf) is the best thing I've done to date. 
 - [These](https://muse.jhu.edu/article/764694) are the most beautiful data I've worked with.
 
