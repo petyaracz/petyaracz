@@ -11,7 +11,7 @@ Quantitative linguist, Cognitive Science Department, Department of Natural Scien
 ## Links
 
 - [Website](https://peterracz.wordpress.com/)
-- [Job]([http://cogsci.bme.hu/](http://www.cogsci.bme.hu/~ktkuser/master_CogSci_eng/tanszek/)
+- [Job](http://www.cogsci.bme.hu/~ktkuser/master_CogSci_eng/tanszek/)
 - [GS](https://scholar.google.com/citations?user=EzdJE8oAAAAJ)
 - [Orchid](https://orcid.org/0000-0001-7896-4801)
 - [MTMT2](https://m2.mtmt.hu/api/author/10070947)
